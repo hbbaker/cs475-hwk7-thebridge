@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * DO NOT MAKE CHANGES TO THIS CLASSs
+ * DO NOT MAKE CHANGES TO THIS CLASS
  */
 public class Car implements Runnable {
   private int id;
